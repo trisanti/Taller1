@@ -1,0 +1,27 @@
+h1 {
+    color: #2c3e50; /* Color del texto */
+    font-size: 36px; /* Tamaño de la fuente */
+    font-family: 'Arial', sans-serif; /* Tipo de fuente */
+    margin: 20px 0; /* Margen superior e inferior */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 5); /* Sombra del texto */
+    text-transform: uppercase; /* mayus */
+    text-align: center; /* Alineación del texto */
+
+}
+
+#datos {
+    color: #e6e6e6; /* Color del texto */
+    font-size: 15px; /* Tamaño de la fuente */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Tipo de fuente */
+    margin: 20px 0; /* Margen superior e inferior */
+    background-color: rgb(103, 103, 216);
+    border-radius: 5%;
+    text-align: center; /* Alineación del texto */
+    justify-content: center;     /* Centra horizontalmente */
+    align-items: center;        /* Centra verticalmente */
+    display: inline-block;    /* Hace que el fondo se ajuste al tamaño del texto */
+}
+
+body {
+    background-color: rgb(34, 34, 34);
+}

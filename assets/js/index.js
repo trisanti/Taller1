@@ -21,6 +21,7 @@ fetch('data/taller.json')
                 <td>${computadores[i].nombre}</td>
                 <td>${computadores[i].descripcion}</td>
                 <td>${computadores[i].precio}</td>
+                <td>${computadores[i].imagen}</td>
             </tr>`;
         }
 
